@@ -44,6 +44,17 @@ A non-commercial platform supporting community outreach programmes — blood dri
 
 Wellspring is not for sale. If you'd like to support the work, donations are welcomed.
 
+### App-iary — *online.app-iary*
+
+The product line under which I ship consumer and education software, hosted on a single MicroK8s + FluxCD platform with cert-manager, Keycloak, and shared Postgres/Mongo/MinIO services.
+
+- **Write-Buddy** — a Flutter application that helps preschoolers develop fine-motor skills and learn to write, progressing from geometric shapes through block letters to cursive and traced words. Spring Boot resource-server backend, OIDC-authenticated against WeldForge.
+- Additional App-iary properties (etios.io, agile-admin, boland-pvc, carbonah-website, etios-fxcm) run on the same GitOps-managed infrastructure.
+
+### In development
+
+- **Intelli-Accounting** — multi-tenant SaaS accounting platform for South African SSMEs. Country-pluggable (ZA-VAT, SARS-aligned CoA), one ledger across web/desktop/mobile/POS, OIDC RP against WeldForge. MVP-1 spec ratified April 2026.
+
 ### [CW Vermaak Informatics](https://cwvinfo.com)
 
 Consultancy site and entry point — services, approach, industries delivered.
@@ -57,6 +68,11 @@ Consultancy site and entry point — services, approach, industries delivered.
 - **PostgreSQL · Flyway · Docker · Kubernetes** — every project
 - **Keycloak** (client work) and **WeldForge** (own products) for identity
 - **Robot Framework BDD** for QA engagements
+
+## Other / utilities
+
+- **whatsapp-bot** — Tina4-Python bot that replaces WhatsApp broadcast lists (now capped at 35/month) via the Meta WhatsApp Cloud API. Subscriber lists, opt-in flows, background worker.
+- **db-converter** — small PHP utility for ad-hoc database conversions.
 
 ## Currently studying
 
