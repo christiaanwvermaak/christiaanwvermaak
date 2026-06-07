@@ -44,7 +44,7 @@ A non-commercial platform supporting community outreach programmes — blood dri
 
 Wellspring is not for sale. If you'd like to support the work, donations are welcomed.
 
-### App-iary — *online.app-iary*
+### App-iary — *app-iary.online*
 
 The product line under which I ship consumer and education software, hosted on a single MicroK8s + FluxCD platform with cert-manager, Keycloak, and shared Postgres/Mongo/MinIO services.
 
