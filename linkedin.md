@@ -33,8 +33,8 @@ All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak
 > • KeyCrypt — a zero-knowledge enterprise password & DevOps-secrets platform (triple-key encryption; human and machine secrets in one vault), federated to WeldForge.
 > • NoteForge — an offline-first, zero-knowledge note-taking platform; client-side encryption, X25519 sharing, one Flutter codebase across web/mobile/desktop.
 > • App-iary Buddy Suite — my early-childhood education line: Write-, Maths-, Memory-, and Music-Buddy on one shared backend, with mastery-paced progression and one family identity, on a GitOps-managed MicroK8s platform.
+> • IntelliSuite — my office/business product line for South African SSMEs: one platform, one login, one set of books across accounting, invoicing, payroll, and POS. SARS-aligned, POPIA-aware, WeldForge identity. Flagship Intelli-Accounting in development.
 > • Wellspring — a pro-bono outreach & visitor-management platform for community health programmes (Spring Boot + Flutter + Tina4).
-> • Intelli-Accounting — multi-tenant accounting SaaS for South African SSMEs, SARS-aligned and country-pluggable (in development).
 > • Plus cross-device tooling (mobile-to-desktop screen mirroring, cross-OS keyboard/mouse sharing) and an early-stage deep-tech venture in quantum control and machine intelligence (provisional patent filed).
 >
 > Working across: Java / Spring Boot · PHP & Python / Tina4 · Flutter · PostgreSQL · Docker · Kubernetes · Keycloak (client work) & WeldForge (own products) · Robot Framework BDD.
@@ -51,7 +51,7 @@ All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak
 **Founder & Software Architect — CW Vermaak Informatics**
 *Johannesburg · Self-employed*
 
-> Identity & access management, zero-knowledge security, multi-tenant SaaS architecture, and audit/QA discipline. Current engagements: Lead Architect (Tech Metropolis — Safe Space / Krusty / CommandTalk), DevOps Engineer (Hertex), Developer (Ubuntu Finance & Mumba Money — cross-border remittance), QA Engineer (Sleek Accounting). Building WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security platforms), the App-iary Buddy Suite, and Wellspring (pro-bono outreach platform).
+> Identity & access management, zero-knowledge security, multi-tenant SaaS architecture, and audit/QA discipline. Current engagements: Lead Architect (Tech Metropolis — Safe Space / Krusty / CommandTalk), DevOps Engineer (Hertex), Developer (Ubuntu Finance & Mumba Money — cross-border remittance), QA Engineer (Sleek Accounting). Building WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security platforms), the App-iary Buddy Suite, IntelliSuite (business software for SA SSMEs), and Wellspring (pro-bono outreach platform).
 
 ---
 
@@ -63,8 +63,8 @@ All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak
 | KeyCrypt | Zero-knowledge enterprise password & DevOps-secrets platform — human and machine secrets in one vault. | |
 | NoteForge | Offline-first, zero-knowledge note-taking — client-side encryption across web/mobile/desktop. | |
 | App-iary Buddy Suite | Early-childhood education suite — Write-, Maths-, Memory-, Music-Buddy on one shared backend. | |
+| IntelliSuite | Business software for SA SSMEs — accounting/invoicing/payroll/POS on one platform (flagship Intelli-Accounting). | intellisuite.app |
 | Wellspring | Pro-bono outreach & visitor-management platform for community health programmes. | |
-| Intelli-Accounting | Multi-tenant accounting SaaS for South African SSMEs (in development). | |
 | cwvermaak.dev | Personal site & dev blog — notes on identity, multi-tenant SaaS, and audit. | cwvermaak.dev |
 
 ---

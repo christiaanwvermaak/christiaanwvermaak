@@ -61,17 +61,25 @@ My consumer/education product line, hosted on a single MicroK8s + FluxCD platfor
 
 One identity, one family roster, and a shared mastery / spaced-repetition engine across all four — mastery-paced (never age-gated), serving both formally-schooled and home-schooled children. Spring Boot resource servers behind a Spring Cloud Gateway, OIDC-authenticated against WeldForge.
 
+> Additional App-iary properties (etios.io, agile-admin, boland-pvc, carbonah-website, etios-fxcm) run on the same GitOps-managed infrastructure.
+
+### [IntelliSuite](https://intellisuite.app) — *business software for South African SSMEs*
+
+My office/business product line: one platform, one login, and one set of books across the tools a small business actually runs on. Built on a shared backend spine (gateway + account/entitlements service) with WeldForge for identity, the suite is country-pluggable and SARS-aligned, POPIA-aware from the database up.
+
+- **Intelli-Accounting** *(flagship, in development)* — multi-tenant accounting: ZA-VAT, SARS-aligned chart of accounts, one ledger across web / desktop / mobile / POS. MVP-1 spec ratified April 2026.
+- **Intelli-Invoicing · Intelli-Payroll · Intelli-POS** — planned sibling apps sharing the same identity, billing, and entitlement spine.
+
+Stack: Java 21/25 · Spring Boot 3.5.x · PostgreSQL · Flyway · OIDC (WeldForge) · BDD/TDD.
+
 ### Wellspring — outreach & visitor management *(pro-bono)*
 
 A non-commercial platform supporting community outreach programmes — blood drives, health days, and similar. Spring Boot backend, Flutter app, Tina4 Python dashboard, with WeldForge as the identity layer. Built TDD + BDD throughout.
 
 Wellspring is not for sale. If you'd like to support the work, donations are welcomed.
 
-> Additional App-iary properties (etios.io, agile-admin, boland-pvc, carbonah-website, etios-fxcm) run on the same GitOps-managed infrastructure.
-
 ### In development
 
-- **Intelli-Accounting** — multi-tenant SaaS accounting platform for South African SSMEs. Country-pluggable (ZA-VAT, SARS-aligned CoA), one ledger across web/desktop/mobile/POS, OIDC RP against WeldForge. MVP-1 spec ratified April 2026.
 - **Cross-device tooling** — screen-mirroring Android and iOS devices onto Windows, Linux, and macOS, plus seamless keyboard-and-mouse sharing across machines (macOS / Windows / Linux), and a unifying analytics engine.
 - **Deep-tech R&D** — co-developing an early-stage venture in quantum control and machine intelligence (provisional patent filed).
 
