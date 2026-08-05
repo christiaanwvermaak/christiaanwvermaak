@@ -4,54 +4,140 @@ Paste-ready content for [linkedin.com/in/cwvermaak](https://www.linkedin.com/in/
 kept in sync with `README.md`. LinkedIn does **not** render Markdown — drop the
 `**` / `#` markers when pasting; the `•` bullets paste cleanly.
 
-All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak.dev**.
+Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **weldforge.org**, **cwvermaak.dev**.
 
 ---
 
 ## Headline
 *(max 220 chars)*
 
-> Software Architect · Founder, CW Vermaak Informatics · Identity & Access, Zero-Knowledge Security, Multi-tenant SaaS · Building WeldForge (federated IdP)
+> Software Architect · Founder of CW Vermaak Consulting (secure software, identity, multi-tenant SaaS) & CW Vermaak Informatics (ML & AI) · Building WeldForge (federated IdP)
 
 ---
 
 ## About
 *(max 2,600 chars; first 2–3 lines show above the fold)*
 
-> I architect resilient systems where development, infrastructure, and quality assurance intersect. My focus areas are identity and access management, zero-knowledge and applied cryptography, multi-tenant SaaS architecture, and the audit discipline that keeps them all honest.
+> I architect resilient systems where development, infrastructure, and quality assurance intersect — and where applied intelligence meets them. I run two complementary practices.
 >
 > Heritage in judgement. Modern in method.
 >
-> I run CW Vermaak Informatics, working the full delivery lifecycle across client engagements:
-> • Lead Architect — Tech Metropolis (Safe Space / Krusty / CommandTalk app ecosystem)
+> Nearly three decades in technology stand behind that judgement. I began in 1996 as a programmer and network specialist, spent 2004–2012 as a Network Controller (later acting Assistant IT Manager) at a Free State health complex, then served as IT Director for the Seventh-day Adventist Church across South Africa, Namibia, Eswatini and Lesotho. From 2016 I moved deep into software quality and test automation — iPreo/IHS Markit, wiGroup, DigiOutsource, Azuro (Team Lead/Product Owner) and Inspired Testing (Software Quality Engineer III) — across banking, health, maritime and capital-markets clients. That full-lifecycle grounding is why I build the way I do.
+>
+> CW Vermaak Consulting — secure software & architecture. Identity and access management, zero-knowledge and applied cryptography, multi-tenant SaaS, DevOps, and audit-grade QA. Current engagements:
+> • Lead Architect — Tech Metropolis (Safe Space / Krusty / CommentTalk)
 > • DevOps Engineer — Hertex
-> • Developer — Ubuntu Finance & Mumba Money (cross-border remittance to Malawi and Zimbabwe)
+> • Developer — Ubuntu Finance & Mumba Money (cross-border remittance)
 > • QA Engineer — Sleek Accounting
 >
-> What I'm building:
-> • WeldForge — a multi-tenant federated identity platform. One Spring Boot binary speaking OIDC, SAML 2.0, and SCIM 2.0, with MFA, internal PKI, and HMAC-signed audit webhooks. POPIA-aware, source-available.
-> • KeyCrypt — a zero-knowledge enterprise password & DevOps-secrets platform (triple-key encryption; human and machine secrets in one vault), federated to WeldForge.
-> • NoteForge — an offline-first, zero-knowledge note-taking platform; client-side encryption, X25519 sharing, one Flutter codebase across web/mobile/desktop.
-> • App-iary Buddy Suite — my early-childhood education line: Write-, Maths-, Memory-, and Music-Buddy on one shared backend, with mastery-paced progression and one family identity, on a GitOps-managed MicroK8s platform.
-> • IntelliSuite — my office/business product line for South African SSMEs: one platform, one login, one set of books across accounting, invoicing, payroll, and POS. SARS-aligned, POPIA-aware, WeldForge identity. Flagship Intelli-Accounting in development.
-> • Wellspring — a pro-bono outreach & visitor-management platform for community health programmes (Spring Boot + Flutter + Tina4).
-> • Plus cross-device tooling (mobile-to-desktop screen mirroring, cross-OS keyboard/mouse sharing) and an early-stage deep-tech venture in quantum control and machine intelligence (provisional patent filed).
+> Platforms & product IP built under the consultancy:
+> • WeldForge — multi-tenant federated identity platform; one Spring Boot binary speaking OIDC, SAML 2.0 and SCIM 2.0, with MFA, internal PKI and signed audit webhooks.
+> • KeyCrypt — zero-knowledge enterprise password & secrets platform, federated to WeldForge.
+> • NoteForge — offline-first, zero-knowledge notes; one Flutter codebase across web/mobile/desktop.
+> • IntelliSuite — accounting, invoicing, payroll and POS for South African SSMEs.
+> • App-iary Buddy Suite — early-childhood education line on GitOps-managed MicroK8s.
+> • Wellspring — pro-bono outreach & visitor management for community health programmes.
 >
-> Working across: Java / Spring Boot · PHP & Python / Tina4 · Flutter · PostgreSQL · Docker · Kubernetes · Keycloak (client work) & WeldForge (own products) · Robot Framework BDD.
+> CW Vermaak Informatics — machine learning & AI. Applied ML, analytics and deep-tech R&D, including an early-stage venture in quantum control and machine intelligence (provisional patent filed).
 >
-> Currently returning to Applied Mathematics — bringing analytical rigor to security-protocol design and reliability modelling.
+> Currently returning to Applied Mathematics — bringing analytical rigor to security-protocol design and to the ML/AI work.
 >
 > Johannesburg, South Africa · English · Afrikaans
-> cwvermaak.dev · cwvinfo.com · weldforge.org
+> cwvermaak.co.za · cwvinfo.com · weldforge.org
 
 ---
 
 ## Experience
 
-**Founder & Software Architect — CW Vermaak Informatics**
+**Founder & Software Architect — CW Vermaak Consulting (Pty) Ltd**
 *Johannesburg · Self-employed*
 
-> Identity & access management, zero-knowledge security, multi-tenant SaaS architecture, and audit/QA discipline. Current engagements: Lead Architect (Tech Metropolis — Safe Space / Krusty / CommandTalk), DevOps Engineer (Hertex), Developer (Ubuntu Finance & Mumba Money — cross-border remittance), QA Engineer (Sleek Accounting). Building WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security platforms), the App-iary Buddy Suite, IntelliSuite (business software for SA SSMEs), and Wellspring (pro-bono outreach platform).
+> Secure software & architecture: identity & access management, zero-knowledge security, multi-tenant SaaS, DevOps, and audit/QA discipline. Current engagements: Lead Architect (Tech Metropolis), DevOps Engineer (Hertex), Developer (Ubuntu Finance & Mumba Money — cross-border remittance), QA Engineer (Sleek Accounting). Platforms built: WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security), IntelliSuite (business software for SA SSMEs), the App-iary Buddy Suite, and Wellspring (pro-bono).
+
+**Founder — CW Vermaak Informatics**
+*Johannesburg · Self-employed*
+
+> Machine learning & AI: applied ML, analytics, and deep-tech R&D — including an early-stage venture in quantum control and machine intelligence (provisional patent filed).
+
+**Software Quality Engineer III — Inspired Testing**
+*2021 – Present*
+
+> Test automation across web and mobile for banking, health and genomics clients (Congenica, Thrive Trade, Simplyhealth, Nedbank). C#/Java/Python/TypeScript · Selenium, Playwright, Nightwatch, Appium · Azure DevOps.
+
+**Senior Consultant: Test Automation — Azuro Business Solutions**
+*2019 – 2021*
+
+> HiLo Maritime Risk Management and LetsJam (promoted to Team Lead / Product Owner). C#, JavaScript/Angular, TestCafé, MSSQL.
+
+**Intermediate Technical Tester — DigiOutsource**
+*2019*
+
+> API, backend and UI testing. C# with Atata, MSSQL/MongoDB/Elasticsearch, RabbitMQ, Postman.
+
+**Senior Quality Assurance Analyst — wiGroup**
+*2018 – 2019*
+
+> Automated testing of wiGroup's transaction-switching backend. Java/Swift, MySQL, AWS, Jenkins, Ready! API.
+
+**Associate in SQA Engineering — iPreo by IHS Markit**
+*2017 – 2018*
+
+> Municipal Book Runner (MuniBR), Muni Gameday and Muni Deal Show App (C#/Angular/Docker). Cypress + TypeScript BDD, Katalon, TeamCity.
+
+**QA / Automated Tester — DevProx (for NewDirection IRA Inc.)**
+*2016 – 2017*
+
+> Katalon/Selenium/Groovy and Ready! API/SoapUI. PHP, Node.js, AWS, Oracle Service Cloud, MSSQL/MySQL/MongoDB.
+
+**Web & Software Developer — Self-employed**
+*2015 – 2016*
+
+> Web and desktop application development: Laravel, AngularJS, Node.js, Tina4, Magento and Delphi. Projects included FIB Trader, MyIdentity, Sleek Accounting, Retrospection and a VIP voucher-management system.
+
+**IT Director — KwaZulu-Natal Free State Conference of Seventh-day Adventist Churches**
+*2014 – 2015*
+
+> Strategic IT leadership. Upgraded to fibre, Gigabit PoE, managed Wi-Fi and VoIP; managed the IT budget.
+
+**IT Director — Southern African Union Conference of Seventh-day Adventist Churches**
+*2012 – 2014*
+
+> IT leadership across South Africa, Namibia, Eswatini and Lesotho. Merged two buildings over a Free-Space-Optic link, virtualized nine servers, deployed Asterisk VoIP, supported SunPlus financials.
+
+**Network Controller (Senior → Principal) — Free State Department of Health, Psychiatric Complex**
+*2004 – 2012*
+
+> Network infrastructure and support for 480+ users; acting Assistant Manager: IT (2007–2008), managing 24 staff. Redesigned the fibre backbone, ran Netware/SuSE/Windows environments, ~R20m equipment under management. CompTIA Security+, CNA, Linux (NNLS/LPI).
+
+**IT Consultant (after hours) — Self-employed**
+*2007 – 2012*
+
+> Open-source networking and custom application development (Delphi, C++, XML, SQL) alongside the Department of Health role.
+
+**Self-employed — Web & Software Development, Training**
+*2003 – 2004*
+
+> PHP web development, Delphi software, and lecturing/mentoring of programming and technical computer courses.
+
+**Technician — Network & Computing Consultants**
+*2001 – 2003*
+
+> Sales, WAN/LAN infrastructure and PC/peripheral support (Windows, Linux). Clients included the Free State Department of Health, OFM and the University of the Free State.
+
+**Technician — Konica Office Automation**
+*2000 – 2001*
+
+> Hardware/software installation and support; network planning.
+
+**Technician / Network Specialist — Welcomp Computers / CSITS**
+*1997 – 2000*
+
+> Network infrastructure and PC/peripheral support. Clients included Eskom, DairyBelle, UFS and various municipalities; contracted to Eskom, HP, Packard Bell and Brother.
+
+**Programmer & Student Assistant — University of the Free State**
+*1996 – 1997*
+
+> Programmer, Agricultural Meteorology — built a crop-growth simulation program (team) with a focus on IP protection and copyright enforcement. Also Student Assistant, Computer Information Systems.
 
 ---
 
@@ -62,10 +148,11 @@ All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak
 | WeldForge | One identity forge for every application you ship — multi-tenant federated IdP (OIDC/SAML/SCIM). | weldforge.org |
 | KeyCrypt | Zero-knowledge enterprise password & DevOps-secrets platform — human and machine secrets in one vault. | |
 | NoteForge | Offline-first, zero-knowledge note-taking — client-side encryption across web/mobile/desktop. | |
+| IntelliSuite | Business software for SA SSMEs — accounting/invoicing/payroll/POS on one platform. | intellisuite.app |
 | App-iary Buddy Suite | Early-childhood education suite — Write-, Maths-, Memory-, Music-Buddy on one shared backend. | |
-| IntelliSuite | Business software for SA SSMEs — accounting/invoicing/payroll/POS on one platform (flagship Intelli-Accounting). | intellisuite.app |
 | Wellspring | Pro-bono outreach & visitor-management platform for community health programmes. | |
-| cwvermaak.dev | Personal site & dev blog — notes on identity, multi-tenant SaaS, and audit. | cwvermaak.dev |
+| CW Vermaak Consulting | Secure software, identity & multi-tenant SaaS consultancy. | cwvermaak.co.za |
+| CW Vermaak Informatics | Machine learning, AI & deep-tech practice. | cwvinfo.com |
 
 ---
 
@@ -74,11 +161,11 @@ All three linked sites are live: **weldforge.org**, **cwvinfo.com**, **cwvermaak
 
 Software Architecture · Identity & Access Management (IAM) · OAuth / OIDC · SAML · SCIM ·
 Applied Cryptography / Zero-Knowledge · Multi-tenancy · Spring Boot · Java · Kubernetes ·
-Flutter · PostgreSQL · DevOps · Test Automation (BDD) · PHP · Python
+Flutter · PostgreSQL · DevOps · Test Automation (BDD) · Machine Learning · PHP · Python
 
 ---
 
 ## Other quick wins
-- **Education** — add the Applied Mathematics studies (mark in progress).
+- **Education** — B Sc, University of the Free State (2003); add the current Applied Mathematics studies (mark in progress).
 - **Custom URL** — already `linkedin.com/in/cwvermaak` ✓
-- **Open to** — toggle *Open to providing services* → IAM / SaaS architecture, if seeking work.
+- **Open to** — toggle *Open to providing services* → IAM / SaaS architecture (Consulting) and/or ML/AI (Informatics), if seeking work.
