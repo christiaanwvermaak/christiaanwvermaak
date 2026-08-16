@@ -25,7 +25,7 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 > Nearly three decades in technology stand behind that judgement. I began in 1996 as a programmer and network specialist, spent 2004–2012 as a Network Controller (later acting Assistant IT Manager) at a Free State health complex, then served as IT Director for the Seventh-day Adventist Church across South Africa, Namibia, Eswatini and Lesotho. From 2016 I moved deep into software quality and test automation — iPreo/IHS Markit, wiGroup, DigiOutsource, Azuro (Team Lead/Product Owner) and Inspired Testing (Software Quality Engineer III) — across banking, health, maritime and capital-markets clients. That full-lifecycle grounding is why I build the way I do.
 >
 > CW Vermaak Consulting — secure software & architecture. Identity and access management, zero-knowledge and applied cryptography, multi-tenant SaaS, DevOps, and audit-grade QA. Current engagements:
-> • Lead Architect — Tech Metropolis (Safe Space / Krusty / CommentTalk)
+> • Lead Architect — Tech Metropolis (Safe Space / Krusty / Commentalk)
 > • DevOps Engineer — Hertex
 > • Developer — Ubuntu Finance & Mumba Money (cross-border remittance)
 > • QA Engineer — Sleek Accounting

@@ -22,7 +22,7 @@ Secure, multi-tenant software for teams whose systems can't afford to be breache
 
 ### Client engagements — full delivery lifecycle
 
-- **Lead Architect** — *Tech Metropolis* (the Safe Space / Krusty / CommentTalk app ecosystem)
+- **Lead Architect** — *Tech Metropolis* (the Safe Space / Krusty / Commentalk app ecosystem)
 - **DevOps Engineer** — *Hertex*
 - **Developer** — *Ubuntu Finance & Mumba Money* (cross-border remittance to Malawi and Zimbabwe)
 - **QA Engineer** — *Sleek Accounting*
