@@ -11,7 +11,7 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 ## Headline
 *(max 220 chars)*
 
-> Software Architect · Founder of CW Vermaak Consulting (secure software, identity, multi-tenant SaaS) & CW Vermaak Informatics (ML & AI) · Building WeldForge (federated IdP)
+> Software Architect — Identity, Secure Software & Multi-Tenant SaaS · Founder of CW Vermaak Consulting & CW Vermaak Informatics (ML & AI) · Building WeldForge (federated IdP)
 
 ---
 
