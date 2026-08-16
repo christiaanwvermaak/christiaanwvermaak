@@ -42,11 +42,11 @@ A multi-tenant federated identity platform: a single Spring Boot binary that spe
 - **Scoped API keys + service accounts** for M2M
 - **Multi-tenant from the database up** — every query tenant-scoped
 
-Stack: Java 21 · Spring Boot 3.3.5 · PostgreSQL · GKE · Resilience4j · Prometheus. POPIA-aware data residency. Source-available.
+Stack: Java 21 · Spring Boot 3.3.5 · PostgreSQL · Kubernetes · Resilience4j · Prometheus. POPIA-aware data residency. Licensed under the Business Source License 1.1, with a documented self-hosting path (Docker Compose or Helm).
 
 #### KeyCrypt — *zero-knowledge secrets, human and machine*
 
-An enterprise password and DevOps-secrets platform built on a triple-key, zero-knowledge encryption model — the server never sees plaintext. Human credentials and machine secrets live in one vault, federated to WeldForge for identity. Browser extension, desktop, mobile, and admin console; database-per-service microservices on GKE.
+An enterprise password and DevOps-secrets platform built on a triple-key, zero-knowledge encryption model — the server never sees plaintext. Human credentials and machine secrets live in one vault, federated to WeldForge for identity. Browser extension, desktop, mobile, and admin console; database-per-service microservices on Kubernetes.
 
 Stack: Java 21 · Spring Boot 3.3.x · PostgreSQL 18 · Flyway · OIDC (WeldForge) · BDD/TDD with Cucumber.
 
