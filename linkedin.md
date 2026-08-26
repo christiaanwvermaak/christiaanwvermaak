@@ -18,11 +18,19 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 ## About
 *(max 2,600 chars; first 2–3 lines show above the fold)*
 
+> **Live as at 2026-08-26 — 2,597/2,600 characters. Effectively full.**
+> Anything added here now has to displace something. The career paragraph below
+> is the condensed 327-char form; the original 666-char version did not fit and
+> is preserved under *Career paragraph — full version* at the end of this file.
+> The live About also carries a `Working across:` stack line and longer product
+> descriptions that this file does not duplicate — **do not paste this file over
+> the live About wholesale, it would lose them.**
+
 > I architect resilient systems where development, infrastructure, and quality assurance intersect — and where applied intelligence meets them. I run two complementary practices.
 >
 > Heritage in judgement. Modern in method.
 >
-> Nearly three decades in technology stand behind that judgement. I began in 1996 as a programmer and network specialist, spent 2004–2012 as a Network Controller (later acting Assistant IT Manager) at a Free State health complex, then served as IT Director for the Seventh-day Adventist Church across South Africa, Namibia, Eswatini and Lesotho. From 2016 I moved deep into software quality and test automation — iPreo/IHS Markit, wiGroup, DigiOutsource, Azuro (Team Lead/Product Owner) and Inspired Testing (Software Quality Engineer III) — across banking, health, maritime and capital-markets clients. That full-lifecycle grounding is why I build the way I do.
+> Nearly three decades stand behind that judgement — programmer and network specialist from 1996, Network Controller and acting Assistant IT Manager, then IT Director for the Seventh-day Adventist Church across four southern African countries, and from 2016 deep in software quality at iPreo, wiGroup, Azuro and Inspired Testing.
 >
 > CW Vermaak Consulting — secure software & architecture. Identity and access management, zero-knowledge and applied cryptography, multi-tenant SaaS, DevOps, and audit-grade QA. Current engagements:
 > • Lead Architect — Tech Metropolis (Safe Space / Krusty / Commentalk)
@@ -169,3 +177,18 @@ Flutter · PostgreSQL · DevOps · Test Automation (BDD) · Machine Learning · 
 - **Education** — B Sc, University of the Free State (2003); add the current Applied Mathematics studies (mark in progress).
 - **Custom URL** — already `linkedin.com/in/cwvermaak` ✓
 - **Open to** — toggle *Open to providing services* → IAM / SaaS architecture (Consulting) and/or ML/AI (Informatics), if seeking work.
+
+---
+
+## Career paragraph — full version
+
+The 666-char original, kept because it is the better copy and would go straight
+back in if room is ever freed (the product bullets in the live About duplicate
+the Experience entry almost word for word — that is the cheapest ~100 chars).
+
+> Nearly three decades in technology stand behind that judgement. I began in 1996 as a programmer and network specialist, spent 2004–2012 as a Network Controller (later acting Assistant IT Manager) at a Free State health complex, then served as IT Director for the Seventh-day Adventist Church across South Africa, Namibia, Eswatini and Lesotho. From 2016 I moved deep into software quality and test automation — iPreo/IHS Markit, wiGroup, DigiOutsource, Azuro (Team Lead/Product Owner) and Inspired Testing (Software Quality Engineer III) — across banking, health, maritime and capital-markets clients. That full-lifecycle grounding is why I build the way I do.
+
+What the condensed version gives up: the client sectors (banking, health,
+maritime, capital markets), DigiOutsource and IHS Markit by name, the Azuro and
+Inspired Testing titles, and the closing line that ties the history back to
+"Heritage in judgement".
