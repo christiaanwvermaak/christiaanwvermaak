@@ -34,9 +34,8 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 >
 > CW Vermaak Consulting — secure software & architecture. Identity and access management, zero-knowledge and applied cryptography, multi-tenant SaaS, DevOps, and audit-grade QA. Current engagements:
 > • Lead Architect — Tech Metropolis (Safe Space / Krusty / Commentalk)
-> • DevOps Engineer — Hertex
-> • Developer — Ubuntu Finance & Mumba Money (cross-border remittance)
-> • QA Engineer — Sleek Accounting
+>
+> Software Engineer & DevOps Engineer — Code Infinity (contract, Nov 2025 – present). Development and DevOps within Code Infinity's delivery teams; those client relationships are Code Infinity's and are not listed here.
 >
 > Platforms & product IP built under the consultancy:
 > • WeldForge — multi-tenant federated identity platform; one Spring Boot binary speaking OIDC, SAML 2.0 and SCIM 2.0, with MFA, internal PKI and signed audit webhooks.
@@ -60,15 +59,20 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 **Founder & Software Architect — CW Vermaak Consulting (Pty) Ltd**
 *Johannesburg · Self-employed*
 
-> Secure software & architecture: identity & access management, zero-knowledge security, multi-tenant SaaS, DevOps, and audit/QA discipline. Current engagements: Lead Architect (Tech Metropolis), DevOps Engineer (Hertex), Developer (Ubuntu Finance & Mumba Money — cross-border remittance), QA Engineer (Sleek Accounting). Platforms built: WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security), IntelliSuite (business software for SA SSMEs), the App-iary Buddy Suite, and Wellspring (pro-bono).
+> Secure software & architecture: identity & access management, zero-knowledge security, multi-tenant SaaS, DevOps, and audit/QA discipline. Current engagement: Lead Architect (Tech Metropolis). Platforms built: WeldForge (federated IdP), KeyCrypt & NoteForge (zero-knowledge security), IntelliSuite (business software for SA SSMEs), the App-iary Buddy Suite, and Wellspring (pro-bono).
 
 **Founder — CW Vermaak Informatics**
 *Johannesburg · Self-employed*
 
 > Machine learning & AI: applied ML, analytics, and deep-tech R&D — including an early-stage venture in quantum control and machine intelligence (provisional patent filed).
 
+**Software Engineer & DevOps Engineer — Code Infinity (Pty) Ltd**
+*Nov 2025 – present · Johannesburg · Contract · Remote*
+
+> Development and DevOps within Code Infinity's delivery teams. Client relationships there are Code Infinity's, not CW Vermaak Consulting engagements, so they are not named.
+
 **Software Quality Engineer III — Inspired Testing**
-*2021 – Present*
+*Apr 2021 – Aug 2025*
 
 > Test automation across web and mobile for banking, health and genomics clients (Congenica, Thrive Trade, Simplyhealth, Nedbank). C#/Java/Python/TypeScript · Selenium, Playwright, Nightwatch, Appium · Azure DevOps.
 

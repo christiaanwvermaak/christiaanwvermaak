@@ -23,9 +23,16 @@ Secure, multi-tenant software for teams whose systems can't afford to be breache
 ### Client engagements — full delivery lifecycle
 
 - **Lead Architect** — *Tech Metropolis* (the Safe Space / Krusty / Commentalk app ecosystem)
-- **DevOps Engineer** — *Hertex*
-- **Developer** — *Ubuntu Finance & Mumba Money* (cross-border remittance to Malawi and Zimbabwe)
-- **QA Engineer** — *Sleek Accounting*
+
+---
+
+## Code Infinity *(Pty) Ltd — contract*
+
+**Software Engineer & DevOps Engineer** · *Nov 2025 – present · Johannesburg, remote*
+
+Development and DevOps across the client portfolio, in Code Infinity's delivery
+teams rather than as a CW Vermaak Consulting engagement. Those client
+relationships are Code Infinity's, so they are not listed here.
 
 ### Platforms & product IP
 
