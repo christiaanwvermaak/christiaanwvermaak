@@ -11,6 +11,13 @@ Live sites: **cwvermaak.co.za** (Consulting), **cwvinfo.com** (Informatics), **w
 ## Headline
 *(max 220 chars)*
 
+**Live as at 2026-08-28** — 172/220 characters:
+
+> Software Architect · Founder of CW Vermaak Consulting (secure software, identity, multi-tenant SaaS) & CW Vermaak Informatics (ML & AI) · Building WeldForge (federated IdP)
+
+A rewrite that leads with the specialisms rather than the founder role, kept as an
+option (173/220). Not applied — the live one is fine and reads well above the fold:
+
 > Software Architect — Identity, Secure Software & Multi-Tenant SaaS · Founder of CW Vermaak Consulting & CW Vermaak Informatics (ML & AI) · Building WeldForge (federated IdP)
 
 ---
@@ -178,7 +185,12 @@ Flutter · PostgreSQL · DevOps · Test Automation (BDD) · Machine Learning · 
 ---
 
 ## Other quick wins
-- **Education** — B Sc, University of the Free State (2003); add the current Applied Mathematics studies (mark in progress).
+- **Education** — B Sc, University of the Free State (2003). Applied Mathematics was
+  part of that degree, **not** a separate qualification, so do **not** add a second
+  Education entry for it. The live entry currently reads *Computer Information
+  Systems* only; the one optional tweak is widening its field of study to name
+  Applied Mathematics too. The "currently returning to Applied Mathematics" line in
+  About covers the present-day study.
 - **Custom URL** — already `linkedin.com/in/cwvermaak` ✓
 - **Open to** — toggle *Open to providing services* → IAM / SaaS architecture (Consulting) and/or ML/AI (Informatics), if seeking work.
 
